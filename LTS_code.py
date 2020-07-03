@@ -1,5 +1,5 @@
 # Automatic Laser Turret system
-# developed by Jeffrey Golabek June 2020
+# developed by Jeff G June 2020
 
 from time import sleep
 from SimpleCV import Camera, Display, Image
